@@ -5,3 +5,5 @@ This app was build using python flask, databased used sqlite3.
 
 To execute the full project, 
 run the requirements.txt file. 
+
+It was an inspirational tutorial from freecodecamp.org.
